@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator-10-master",
+  "version": "1.0.0",
+  "description": "For generating a profile of your work teammates",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Censorinus/team-profile-generator.git"
+  },
+  "author": "Joshua Grant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Censorinus/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Censorinus/team-profile-generator#readme"
+}
